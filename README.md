@@ -19,9 +19,11 @@ __Non-fiction__
     * The Whole-Brain Child - Daniel J. Siegel, Tina Payne Bryson
     * Wired to Create - Scott Barry Kaufman & Carolyn Gregoire
   * Physics
+    * Hydrogen: The Essential Element - John S. Rigden
     * The Character of Physical Law - Richard Feynman
     * Understanding Physics - Issac Asimov
   * Programming
+    * AI for Game Developers: Creating Intelligent Behavior in Games - David M. Bourg
     * Coding the Matrix - Phillip Klein
     * Design Patterns - Erich Gamma,‎ Richard Helm, Ralph Johnson,‎ John Vlissides
     * Effective Modern C++ - Eric Meyer
@@ -30,8 +32,9 @@ __Non-fiction__
     * The Mythical Man-Month - Frederick P. Brooks
     * The Pragmatic Programmer - Andrew Hunt
   * Tech
-   * Designing Bots - Amir Shevat
-   * You Are Not A Gadget - Jaron Lanier
+    * Artificial Intelligence: A Beginner's Guide - Blay Witby
+    * Designing Bots - Amir Shevat
+    * You Are Not A Gadget - Jaron Lanier
 
 __Fiction__
 * Cat's Cradle
