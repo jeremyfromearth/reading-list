@@ -12,6 +12,7 @@ __Non-fiction__
   * Math
     * Complexity: A Guided Tour - Melanie Mitchell
     * How To Solve It - George Polya & Sam Sloan
+    * Matrices and Linear Algebra - Schneider & Barker
     * Introduction to Graph Theory - Richard J. Trudeau
   * Philosophy/Psychology
     * The Demon Haunted World - Carl Sagan
