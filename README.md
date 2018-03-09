@@ -20,8 +20,11 @@ __Non-fiction__
     * The Whole-Brain Child - Daniel J. Siegel, Tina Payne Bryson
     * Wired to Create - Scott Barry Kaufman & Carolyn Gregoire
   * Physics
+    * A Sense of the Mysterious - Alan Lightman
+    * A Universe From Nothing - Lawrence M. Krauss
     * Hydrogen: The Essential Element - John S. Rigden
     * The Character of Physical Law - Richard Feynman
+    * Surely You're Joking Mr Feynman - Richard Feynman
     * Understanding Physics - Issac Asimov
   * Programming
     * AI for Game Developers: Creating Intelligent Behavior in Games - David M. Bourg
@@ -42,6 +45,7 @@ __Fiction__
 * Mother Night
 * Sirens of Titan
 * Slaughterhouse Five
+* God Bless You Dr. Kevorkian
 * The Fountainhead
 * Another Roadside Attraction
 * Half Asleep in Frog Pajamas
