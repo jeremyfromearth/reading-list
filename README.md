@@ -11,6 +11,7 @@ __Non-fiction__
     * Designing Your Life - Bill Burnett & Dave Evans
   * Math
     * Complexity: A Guided Tour - Melanie Mitchell
+    * How To Fold It - Joseph O'Rourke
     * How To Solve It - George Polya & Sam Sloan
     * Matrices and Linear Algebra - Schneider & Barker
     * Introduction to Graph Theory - Richard J. Trudeau
