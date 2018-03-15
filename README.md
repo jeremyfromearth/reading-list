@@ -23,6 +23,7 @@ __Non-fiction__
   * Physics
     * A Sense of the Mysterious - Alan Lightman
     * A Universe From Nothing - Lawrence M. Krauss
+    * A Breif History of Time - Stephen Hawking
     * Hydrogen: The Essential Element - John S. Rigden
     * The Character of Physical Law - Richard Feynman
     * Surely You're Joking Mr Feynman - Richard Feynman
@@ -30,7 +31,7 @@ __Non-fiction__
   * Programming
     * AI for Game Developers: Creating Intelligent Behavior in Games - David M. Bourg
     * Coding the Matrix - Phillip Klein
-    * Design Patterns - Erich Gamma,‎ Richard Helm, Ralph Johnson,‎ John Vlissides
+    * Design Patterns - Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
     * Effective Modern C++ - Eric Meyer
     * Python Machine Learning - Sebastian Raschka
     * Masterminds of Programming - Federico Biancuzzi
@@ -42,7 +43,9 @@ __Non-fiction__
     * You Are Not A Gadget - Jaron Lanier
 
 __Fiction__
+* 1984
 * Cat's Cradle
+* Do Androids Dream of Electric Sheep?
 * Mother Night
 * Sirens of Titan
 * Slaughterhouse Five
