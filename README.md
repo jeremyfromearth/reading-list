@@ -27,6 +27,8 @@ __Non-fiction__
     * Hydrogen: The Essential Element - John S. Rigden
     * The Character of Physical Law - Richard Feynman
     * Surely You're Joking Mr Feynman - Richard Feynman
+    * The Elegant Universe - Brian Greene
+    * The Fabic of the Cosmos - Brian Greene
     * Understanding Physics - Issac Asimov
   * Programming
     * AI for Game Developers: Creating Intelligent Behavior in Games - David M. Bourg
