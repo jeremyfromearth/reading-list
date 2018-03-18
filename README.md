@@ -6,6 +6,7 @@
 ### Read
 __Non-fiction__
   * Biology
+    * The Brain that Changes Itself - Norman Doidge
     * The Selfish Gene - Richard Dawkins
   * Design
     * Designing Your Life - Bill Burnett & Dave Evans
