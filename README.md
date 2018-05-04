@@ -2,6 +2,7 @@
 
 ### Reading
  * Cycles of Time - Roger Penrose
+ * On Intelligence - Jeff Hawkins
 
 ### Read
 __Non-fiction__
@@ -62,5 +63,4 @@ __Fiction__
 * The Stranger
 
 ### Will Read
-  * On Intelligence - Jeff Hawkins
   * The Machinery of Life - David S. Goodsell
