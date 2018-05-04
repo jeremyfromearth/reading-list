@@ -43,6 +43,7 @@ __Non-fiction__
   * Tech
     * Artificial Intelligence: A Beginner's Guide - Blay Witby
     * Designing Bots - Amir Shevat
+    * The Master Algorithm - Pedro Domingos
     * You Are Not A Gadget - Jaron Lanier
 
 __Fiction__
