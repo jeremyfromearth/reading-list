@@ -2,7 +2,6 @@
 
 ### Reading
  * Cycles of Time - Roger Penrose
- * On Intelligence - Jeff Hawkins
 
 ### Read
 __Non-fiction__
@@ -45,6 +44,7 @@ __Non-fiction__
     * Artificial Intelligence: A Beginner's Guide - Blay Witby
     * Designing Bots - Amir Shevat
     * The Master Algorithm - Pedro Domingos
+    * On Intelligence - Jeff Hawkins
     * You Are Not A Gadget - Jaron Lanier
 
 __Fiction__
