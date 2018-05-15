@@ -2,6 +2,8 @@
 
 ### Reading
  * Cycles of Time - Roger Penrose
+ * I of the Vortex - Rodolfo R. Llinás
+ * An Introduction to Information Theory - John R. Pierce
 
 ### Read
 __Non-fiction__
